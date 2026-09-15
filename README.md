@@ -85,7 +85,7 @@
 - [Uncle Bandit Attack](https://twitter.com/bertcmiller/status/1382673587715342339)
 - [What Is Miner-Extractable Value (MEV)?](https://blog.chain.link/what-is-miner-extractable-value-mev/)
 - [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
-- [HostDeFi](https://hostdefi.com) - Multi-chain swap aggregator front-end (Jupiter on Solana, KyberSwap on 8 EVM chains) with a built-in free A+–F token-safety scanner.
+- [HostDeFi](https://hostdefi.com) - Multi-chain swap aggregator front-end (Jupiter on Solana, KyberSwap on 7 EVM chains) with a built-in free A+–F token-safety scanner.
 
 *### *Flashbots Resources:**
 </br> [Flashbots Medium](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
